@@ -1,0 +1,1 @@
+document.querySelector('h1').innerHTML='Esta página no es compatible con la versión de tu navegador, actualice a la versión más reciente.';
